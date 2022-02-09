@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8af9fe37ebad40aacc9223707ad1e, type: 3}
+  m_Name: SO_Properties_Player
+  m_EditorClassIdentifier: 
+  Health: 8
+  rotateSpeedModifier: 0.5
+  minRotateX: -53.42489
+  maxRotateX: 53.54996
+  minRotateY: -20
+  maxRotateY: 25
+  rotateVector: {x: 1.2250018, y: 13.705124}
+  currentBallType: 0
